@@ -7,3 +7,4 @@ After the loop finishes, it uses max(grades) to find the highest grade and min(g
 all grades by the number of grades using len(grades). Finally, it prints the average grade, the highest grade, the lowest grade, and how many students passed.
 
 A simple program that reviews a list of grades to calculate the average, highest, lowest, and total number of passing scores.
+🎓 📘✏️
