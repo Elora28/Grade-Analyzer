@@ -1,4 +1,4 @@
-The Grade Analyzer
+ 💯The Grade Analyzer
 
 This program takes a list of grades and processes them to calculate useful statistics. 
 It starts by setting total to 0 so it can add all the grades together, and pass_count to 0 so it can count how many grades are 50 or higher. 
